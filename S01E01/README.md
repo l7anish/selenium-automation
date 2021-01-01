@@ -17,7 +17,8 @@ Our machine has vast space to put up everything we are learning/working. Tuning 
         * Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
         * Edge:     https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
         * Firefox:	https://github.com/mozilla/geckodriver/releases
-        * Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+        * Opera:	https://github.com/operasoftware/operachromiumdriver/releases
+        * I.E:      https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver (Oh No)
     
 
 ## Fun Fact
