@@ -3,5 +3,9 @@ This repository is created for Mentoring the RA Batch as a Spartan!!
 ## List of Items
 [x] Create Git repository
 ## ToDo List
-- [ ] Prepare Season Content
-- [ ] Start Season 01 Episode 01
+- [ ] Prepare Season Content - In Progress
+- [ ] Complete Season 01 Episode 01 - In Progress
+- [ ] Complete Season 01 Episode 02
+- [ ] Complete Season 01 Episode 03
+- [ ] Complete Season 01 Episode 04
+- [ ] Complete Season 01 Finale
