@@ -1,4 +1,4 @@
-# Season One Episode One - Ready Player One
+# Season One Episode One - Ready Player One ༒
 We are about to start ;)
 
 ## Setting up your environment
